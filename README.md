@@ -9,7 +9,7 @@ This repository is a collection of various React challenges found online. Each c
 To solve a problem:
 1. Navigate into the `1_color-guesser` folder
   ```
-  cd 1_color-guesser
+  cd name_of_folder
   ```
 2. Install dependencies:
   ```
