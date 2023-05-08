@@ -8,8 +8,6 @@ This is an application in which users can look up words within an search bar and
   - https://datamuse.com/api/
 
 
-
 ## Challenge
 - Build with typescript!
-- Toggle for difficulty level
-  - Easy mode gives you three choices, while hard mode gives you six choices.
+- Synonyms and Antonyms toggle
