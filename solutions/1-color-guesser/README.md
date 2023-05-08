@@ -5,14 +5,10 @@ This is a game where you have to guess the RGB color code of a randomly generate
 ## How the Application Works
 - The game starts with a randomly generated RGB color code.
 - You have to guess the color by clicking on one of the colored squares.
-- If you guess the correct color 5 times without losing 3 lives, you win the game.
-- If you guess the wrong color, the correct answer highlights, the square disappears and you have to try again.
-- You can play again by clicking the "New Colors" button.
+- You gain points by guessing the correct color and have 3 lives that you lose if you guess incorrectly
+- If you guess the wrong color, the square disappears and you have to try again.
 
 ## Challenge
 - Build with typescript!
 - Toggle for difficulty level
   - Easy mode gives you three choices, while hard mode gives you six choices.
-
-## Solution
-- To view the solution, please navigate into the `solutions` folder and run `npm run dev`
