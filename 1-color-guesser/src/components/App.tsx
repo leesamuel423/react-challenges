@@ -1,10 +1,8 @@
-import RandomColor from './RandomColor';
-
 function App() {
 
   return (
     <div className="app">
-      < RandomColor />
+      <h1>Hello World!</h1>
     </div>
   )
 }
