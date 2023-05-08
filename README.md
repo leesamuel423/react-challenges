@@ -7,7 +7,7 @@ This repository is a collection of various React challenges found online. Each c
 - Each challenge folder contains a README.md file with instructions on what you need to do to complete the challenge.  
 
 To solve a problem:
-1. Navigate into the `1_color-guesser` folder
+1. Navigate into the corresponding folder
   ```
   cd name_of_folder
   ```
