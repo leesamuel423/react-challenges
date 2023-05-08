@@ -19,6 +19,6 @@ To solve a problem:
   
  The solution folder contains the solution code that you can use to compare against your own solution.
 
-
-## Credits
-The challenges in this repository are sourced from various websites and tutorials, and credit is given in the README.md file for each challenge.
+# Challenges
+1. [Color Guesser](./1-color-guesser/)  
+<img src="./assets/color-guesser.png" alt="color-guesser" width="400px">
